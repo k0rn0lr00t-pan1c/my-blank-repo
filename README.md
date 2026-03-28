@@ -1,16 +1,28 @@
-This REPO represents the start of your CICD experience.
-The next step will be to integrate VSC with GITHUB
-
-
-After this integration, we will start our next journey with GIT/GITHUB!
-
-We have to be **strong** and help those that are _not as strong_.
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Row 1    | Data 1   |
-| Row 2    | Data 2   |
-| Row 3    | Data 3   |
-
-
- [ ] Task 1- [x] Task 2
+### Links to Dreams
+[Visit GitHub](https://github.com) to start your quest, 
+Where coders gather, and ideas manifest. 
+A hyperlink to worlds unknown, 
+Where every coder finds their own.
+### Images of Hope
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_
+page/GitHub-Mark.png) 
+An image speaks a thousand lines, 
+In Markdown, it perfectly aligns.
+### Codeblocks of Creation
+```python
+def hello_world():
+    print(&quot;Hello, World!&quot;)
+```
+In codeblocks, our dreams take flight, 
+With every line, we chase the light.
+### Tables of Structure
+| Feature       | Status    |
+| ------------- | --------- |
+| **Ideas**
+     | Pending   |
+| **Code**
+      | In Progress |
+| **Success**   | Achieved  |
+In tables, we find our way, 
+Organizing thoughts, come what may.
+## The End
