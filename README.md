@@ -1,2 +1,2 @@
 This REPO represents the start of your CICD experience.
-The nex step will be to integrate VSC with GITHUB
+The next step will be to integrate VSC with GITHUB
