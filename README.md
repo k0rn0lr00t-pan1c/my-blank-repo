@@ -69,4 +69,4 @@ Contributions are welcome. For substantial changes, open an issue first to discu
 Add your license information here (for example: MIT).
 =======
 Codefinity Examples
->>>>>>> origin/main
+```origin/main
